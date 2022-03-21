@@ -17,4 +17,4 @@ jobs:
           date
       - name: Current dir content
         run: |
-          ls -l
+          ls -lion that will lint the code. If the checks don't pass, Github Actions will show a red status.
